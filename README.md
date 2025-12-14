@@ -2,7 +2,7 @@
 
 ### 🎓 Bachelors of Science in Computer Science Undergraduate
 
-### 🖥️ Aspiring Full-Stack Software Developer
+#### 🖥️ Aspiring Full-Stack Software Developer
 
 I am a dedicated Bachelors in Science in Computer Science Undergraduate student, passionate about building scalable web applications and cloud native architectures. I am eager to bring my theoretical knowledge and technical skills with a practical mindset to create innovative software solutions.
 
