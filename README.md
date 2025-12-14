@@ -1,4 +1,3 @@
-
 ## Hi, I am Waqar! 👋
 
 ### 🎓 BSCS Undergraduate
