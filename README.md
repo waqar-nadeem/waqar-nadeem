@@ -1,12 +1,12 @@
-## Hi, I am Waqar! 👋
+# Hi, I am Waqar! 👋
 
-### 🎓 Bachelors of Science in Computer Science Undergraduate
+## 🎓 Bachelors of Science in Computer Science Undergraduate
 
-#### 🖥️ Aspiring Full-Stack Software Developer
+### 🖥️ Aspiring Full-Stack Software Developer
 
 I am a dedicated Bachelors in Science in Computer Science Undergraduate student, passionate about building scalable web applications and cloud native architectures. I am eager to bring my theoretical knowledge and technical skills with a practical mindset to create innovative software solutions.
 
-### 💻 Technical Stack
+#### 💻 Technical Stack
 
 * **Languages:** Python, Java, C++, HTML, CSS, JavaScript
 * **Frontend:** React, HTML5, CSS3, Bootstrap
@@ -15,7 +15,7 @@ I am a dedicated Bachelors in Science in Computer Science Undergraduate student,
 * **Tools & Cloud:** Git/GitHub, VS Code, Docker, Kubernetes
 
 
-### 🚀 What I am Working On
+#### 🚀 What I am Working On
 
 * 🌱 Expanding my expertise in **Full-Stack Software Development**, **Cloud Computing**, and **Python Development**.
 * ⚡ Writing clean, efficient code and continuous learning.
