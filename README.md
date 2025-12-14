@@ -8,7 +8,7 @@ I am a dedicated Bachelors in Science in Computer Science Undergraduate passiona
 
 ### 🛠️ Technical Stack
 
-* **Languages:** Python, Java, C++, HTML, Css, JavaScript
+* **Languages:** Python, Java, C++, HTML, CSS, JavaScript
 * **Frontend:** React, HTML5, CSS3, Bootstrap
 * **Backend:** Node.js, Express.js, Django, Flask
 * **Database:** MySQL, MongoDB, SQLite
