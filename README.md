@@ -4,7 +4,7 @@
 
 **Aspiring Full-Stack Software Developer**
 
-I am a dedicated Bachelors in Science in Computer Science Undergraduate passionate about building scalable web applications and cloud native architectures. I am eager to bring my theoretical knowledge and technical skills with a practical mindset to create innovative software solutions.
+I am a dedicated Bachelors in Science in Computer Science Undergraduate student, passionate about building scalable web applications and cloud native architectures. I am eager to bring my theoretical knowledge and technical skills with a practical mindset to create innovative software solutions.
 
 ### 💻 Technical Stack
 
@@ -17,10 +17,9 @@ I am a dedicated Bachelors in Science in Computer Science Undergraduate passiona
 
 ### 🚀 What I am Working On
 
-* 🌱 I’m currently expanding my expertise in **Full-Stack Software Development**, **Cloud Computing**, and **Python Development**.
-* 🔭 Working on full-stack projects that integrate **AI/ML** capabilities.
-* 👯 Open to collaborating on innovative web development and open-source projects.
-* ⚡ **Driven by:** Writing clean, efficient code and continuous learning.
+* 🌱 Expanding my expertise in **Full-Stack Software Development**, **Cloud Computing**, and **Python Development**.
+* ⚡ Writing clean, efficient code and continuous learning.
+* 👯 Actively working toward applying my skills in structured and professional, corporate focused web and software development enivorment.
 
 
 <!--
