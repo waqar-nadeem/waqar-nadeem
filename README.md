@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi, I am Waqar! 👋
+## Hi, I am Waqar! 👋
 
 ### 🎓 BSCS Undergraduate
 
