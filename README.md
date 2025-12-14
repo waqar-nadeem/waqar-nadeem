@@ -6,7 +6,7 @@
 
 I am a dedicated Bachelors in Science in Computer Science Undergraduate passionate about building scalable web applications and cloud native architectures. I am eager to bring my theoretical knowledge and technical skills with a practical mindset to create innovative software solutions.
 
-### 💻 Technical Stack:-
+### 💻 Technical Stack
 
 * **Languages:** Python, Java, C++, HTML, CSS, JavaScript
 * **Frontend:** React, HTML5, CSS3, Bootstrap
@@ -15,7 +15,7 @@ I am a dedicated Bachelors in Science in Computer Science Undergraduate passiona
 * **Tools & Cloud:** Git/GitHub, VS Code, Docker, Kubernetes
 
 
-### 🚀 What I qm Working On:-
+### 🚀 What I am Working On
 
 * 🌱 I’m currently expanding my expertise in **Full-Stack Software Development**, **Cloud Computing**, and **Python Development**.
 * 🔭 Working on full-stack projects that integrate **AI/ML** capabilities.
