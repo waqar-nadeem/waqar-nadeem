@@ -19,7 +19,7 @@ I am a dedicated Bachelors in Science in Computer Science Undergraduate student,
 
 * 🌱 Expanding my expertise in **Full-Stack Software Development**, **Cloud Computing**, and **Python Development**.
 * ⚡ Writing clean, efficient code and continuous learning.
-* 👯 Actively working toward applying my skills in structured and professional, corporate focused web and software development enivorment.
+* 👯 Actively working towards applying my skills in structured and professional, corporate focused web and software development environment.
 
 
 <!--
