@@ -11,9 +11,6 @@ I am a dedicated Bachelors in Science in Computer Science Undergraduate student,
 * **Languages:** Python, Java, C++, HTML, CSS, JavaScript
 * **Frontend:** React, HTML5, CSS3, Bootstrap
 * **Backend:** Node.js, Express.js, Django, Flask
-* **Database:** MySQL, MongoDB, SQLite
-* **Tools & Cloud:** Git/GitHub, VS Code, Docker, Kubernetes
-
 
 #### 🚀 What I am Working On
 
