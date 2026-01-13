@@ -2,9 +2,7 @@
 
 ## 🎓 Bachelors of Science in Computer Science Undergraduate
 
-### 🖥️ Aspiring Full Stack Software Developer
-
-I am a dedicated Bachelors in Science in Computer Science Undergraduate student, passionate about building scalable web applications and cloud native architectures. I am eager to bring my theoretical knowledge and technical skills with a practical mindset to create innovative software solutions.
+I am a dedicated Bachelor of Science in Computer Science undergraduate, passionate about developing efficient computing solutions, secure networked systems, and scalable architectures. I am eager to apply my theoretical knowledge and technical skills to practical challenges in computing, networking, and security.
 
 #### 💻 Technical Stack
 
@@ -14,13 +12,12 @@ I am a dedicated Bachelors in Science in Computer Science Undergraduate student,
 * **Databases & Storage:** MongoDB, SQL (PostgreSQL/MySQL), Django ORM
 * **AI & NLP:** IBM Watson NLP / Embeddable AI, Python NLTK
 * **DevOps & Deployment:** Docker, Kubernetes, IBM Cloud (Code Engine), CI/CD with GitHub Actions
-* **Tools & Testing:** Postman, Unit Testing (Python & JS), Static Code Analysis, Async/Await / Promises / Callbacks
+* **Tools & Testing:** Postman, Unit Testing (Python & JS), Static Code Analysis, Async/Await / Promises / Callbacks, Cisco Packet Tracer
 
 #### 🚀 What I am Working On
 
-* 🌱 Expanding my knowledge and skills in **Full-Stack Software Development**, and **Cloud Computing**.
-* ⚡ Writing clean, efficient code and continuous learning.
-* 👯 Actively working towards applying my skills in structured and professional, corporate focused web and software development environment.
+* Expanding my knowledge and skills in **Software Development**, **Cloud Computing**, **Networking**, and **Security**.
+
 
 
 <!--
