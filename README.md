@@ -1,6 +1,6 @@
 # Hi, I am Waqar! 👋
 
-## 🎓 Bachelors of Science in Computer Science Undergraduate
+## 🎓 Bachelor of Science in Computer Science Undergraduate
 
 I am a dedicated Bachelor of Science in Computer Science undergraduate, passionate about developing efficient computing solutions, secure networked systems, and scalable architectures. I am eager to apply my theoretical knowledge and technical skills to practical challenges in computing, networking, and security.
 
